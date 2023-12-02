@@ -1,3 +1,6 @@
-###              yo uh hi i'm new on github lolololol 
-`anyway`
-![nico]`how to use this`
+
+COOL TEST
+
+LOL !
+
+![nico](https://user-images.githubusercontent.com/22229331/206884658-b0d70638-1b51-4bff-a9c0-9219393b6561.gif)
